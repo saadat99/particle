@@ -1,2 +1,2 @@
 # particle
-My resume with Javascript Particles
+My resume personal website Javascript Particles
